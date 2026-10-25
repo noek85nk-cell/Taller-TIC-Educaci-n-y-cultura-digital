@@ -1,0 +1,6 @@
+{
+  "name": "Aula Viva",
+  "description": "Aplicación web educativa para estudiantes de formación docente para planificar y desarrollar investigaciones pedagógicas paso a paso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
